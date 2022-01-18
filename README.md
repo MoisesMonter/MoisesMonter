@@ -1,6 +1,6 @@
 ### Hi there 👋
 hello world
-<img src="https://octodex.github.com/images/Fintechtocat.png">
+<img src="https://octodex.github.com/images/Fintechtocat.png" height="50px", width="50px">
 
 
 <br>
