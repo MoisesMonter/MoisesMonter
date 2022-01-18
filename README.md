@@ -1,6 +1,6 @@
 ### Hi there 👋
 hello world
-<img src="https://i.imgur.com/NmI3q8D.gif">
+<img src="https://octodex.github.com/images/NUX_Octodex.gif">
 
 
 <br>
