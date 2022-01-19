@@ -16,7 +16,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises&layout=compact&langs_count=6&theme=midnight-purple&hide=yacc,html,css&include_all_commits=true&count_private=true"/>
 </div>
 
-<div> 
+<div align="center"> 
 
   <a href="https://www.instagram.com/moises_monter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple&color=black"  target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=gray" target="_blank"></a>
