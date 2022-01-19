@@ -4,7 +4,7 @@ hello world
 <img src="https://octodex.github.com/images/Fintechtocat.png" alt="Image" height="120" width="120">
 
 <br>
-<img src="https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif" height="220" width="120"/>
+<img src="https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif" height="220" width="820"/>
 ## 
 <h2>hello world...I'm Moises Monteiro, a student at the college of TADS on IFRN!</>
   
