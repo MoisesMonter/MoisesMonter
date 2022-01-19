@@ -8,8 +8,8 @@
 <img src="https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif" height="420" width="900"/><br>
 ##
 <br>
-<h2>in here are all my personal stats</>
-<br>
+<h2 align="center">in here are all my personal stats</>
+
 <br>
 <div align="center">
   <a href="https://github.com/MoisesMonter">
