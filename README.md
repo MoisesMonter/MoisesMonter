@@ -1,6 +1,10 @@
-### Hi there 👋
-hello world
-<br>
+### hello world... there 👋
+##
+💻 I'm a full stack web developer
+📚 I’m learning Python
+🎓 I'm study in IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)
+🎓 I started technologist college in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2
+##
 <img src="https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif" height="420" width="900"/>
 ## 
 <h2>hello world...I'm Moises Monteiro, a student at the college of TADS on IFRN!</>
