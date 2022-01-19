@@ -1,9 +1,9 @@
 ### hello world... there 👋
 ##
-💻 I'm a full stack web developer
-📚 I’m learning Python
-🎓 I'm study in IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)
-🎓 I started technologist college in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2
+✉️ My current academic email: moises.monteiro@academico.ifrn.edu.br📩<br>
+📚 I’m learning Python<br>
+🎓 I'm study in IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)<br>
+🎓 I started technologist college in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2<br>
 ##
 <img src="https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif" height="420" width="900"/>
 ## 
