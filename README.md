@@ -15,7 +15,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Moises&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises&layout=compact&langs_count=6&theme=midnight-purple&hide=yacc,html,css&include_all_commits=true&count_private=true"/>
 </div>
-<br>##
-  
-  
-<br><br><br><br>
+<br>END
