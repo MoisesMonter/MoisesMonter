@@ -6,7 +6,7 @@
 🎓 I'm study in IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)<br>
 🎓 I started technologist college in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2<br>
 ##
-<img src="https://www.baretreemedia.com/wp-content/uploads/2019/12/takeYourDogToWorkDay_GIPHY_600x600.gif" height="420" width="1000"/><br>
+<img src="https://www.baretreemedia.com/wp-content/uploads/2019/12/takeYourDogToWorkDay_GIPHY_600x450.gif" height="420" width="1000"/><br>
 ##
 <br>
 <h2 align="center">in here are all my personal stats</>
