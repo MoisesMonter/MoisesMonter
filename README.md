@@ -1,4 +1,3 @@
-###  Hey there... 
 <h3 align="center">Hello world. 👋</h3>
 
 ✉️ My current academic email: moises.monteiro@academico.ifrn.edu.br📩<br>
