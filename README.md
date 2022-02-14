@@ -7,7 +7,10 @@
 🎓 I started technologist college in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2<br>
 
 <h2 align="center">in here are all my personal stats</>
-
+ ##
+ <img src="https://i.pinimg.com/originals/20/54/97/205497ee52942b78ef8b2b46e65ae78c.gif" height="225" width="500"/><br>
+ ##
+ <br>
 <br>
 <div align="center">
 <br>
@@ -15,10 +18,7 @@
    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=MoisesMonter&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=3F0BDD&fire=28078D" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MoisesMonter&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMonter&layout=compact&langs_count=6&theme=midnight-purple&hide=yacc,html,css,c,cpp,c#,py,go&include_all_commits=true&count_private=true"/>
-  ##
-  <img src="https://i.pinimg.com/originals/20/54/97/205497ee52942b78ef8b2b46e65ae78c.gif" height="450" width="1000"/><br>
-  ##
-  <br>
+
 </div>
 <br>
 <div align="center"> 
