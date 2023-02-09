@@ -22,7 +22,7 @@
 <br>
 <div align="center"> 
 
-  <a href="https://https://www.instagram.com/moises.mtro/" target='_blank'><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple&color=black"></a>
+  <a href="https://www.instagram.com/moises.mtro/" target='_blank'><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple&color=black"></a>
   <a href = "mailto:moises.monteiro@escolar.ifrn.edu.br" target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=gray" ></a>
   <a href="https://www.linkedin.com/in/moisés-alexandre-monteiro-araújo-b2a324212" target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black"></a> 
 </div>
