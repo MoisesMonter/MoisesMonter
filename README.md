@@ -2,8 +2,7 @@
 
 ✉️ My current academic email: moises.monteiro@academico.ifrn.edu.br📩<br>
 📚 I’m learning Python and Django!<br>
-🎓 I'm study in IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)<br>
-🎓 I started technologist college in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2<br>
+🎓 I'm study in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2<br>
 
  <h2 align="center">in here are all my personal stats</>
  <br>
