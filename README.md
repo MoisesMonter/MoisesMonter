@@ -1,8 +1,8 @@
 <h3 align="center">Hello world. 👋</h3>
 
 ✉️ My current academic email: moises.monteiro@academico.ifrn.edu.br📩<br>
-📚 I’m learning Python and Django!<br>
-🎓 I'm study in TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) in 2021.2<br>
+📚 I’m learning Full-Stack Devolper<br>
+🎓 I'm Colleger in ADS (analysis and systems development)<br>
 
  <h2 align="center">in here are all my personal stats</>
  <br>
